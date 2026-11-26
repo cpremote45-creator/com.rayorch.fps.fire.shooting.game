@@ -2,11 +2,11 @@
   "apps": [
   
   {
-      "name": "Fashion Queen",
-      "packageName": "com.mm.wedding.salon.bridal.makeup.girls.games",
-      "targetAsin": "B07FLD5PS4",
-      "storeUrl": "https://www.amazon.com/Beauty-Dress-Lucky-Runner-Change/dp/B07FLD5PS4",
-      "rewardedVideoURL": "https://res.cloudinary.com/dabvtnnc/video/upload/v1794827410/V2.mp4"
+      "name": "Slayer Game Argon",
+      "packageName": "com.school.item.vehicle.factory.argon",
+      "targetAsin": "B0GMXW4Q97",
+      "storeUrl": "https://www.amazon.com/Builder-Stunt-Racing-School-Kids/dp/B0GMXW4Q97",
+      "rewardedVideoURL": "https://files.catbox.moe/9p26dl.mp4"
     }, 
     {
       "name": "Fashion Queen",
